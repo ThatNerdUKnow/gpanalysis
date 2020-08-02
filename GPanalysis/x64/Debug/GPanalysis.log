@@ -1,0 +1,2 @@
+﻿  GPanalysis.cpp
+C:\Users\brand\Desktop\GPanalysis\GPanalysis\GPanalysis\GPanalysis.cpp(158,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data

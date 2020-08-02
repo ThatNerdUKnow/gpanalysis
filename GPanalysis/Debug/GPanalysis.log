@@ -1,0 +1,9 @@
+﻿  GPanalysis.cpp
+C:\Users\brand\Desktop\GPanalysis\GPanalysis\GPanalysis\GPanalysis.cpp(151,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\brand\Desktop\GPanalysis\GPanalysis\GPanalysis\GPanalysis.cpp(157,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\brand\Desktop\GPanalysis\GPanalysis\GPanalysis\GPanalysis.cpp(197,55): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\Desktop\GPanalysis\GPanalysis\GPanalysis\GPanalysis.cpp(216,57): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\brand\Desktop\GPanalysis\GPanalysis\GPanalysis\GPanalysis.cpp(231,57): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  logger.cpp
+  Generating Code...
+  GPanalysis.vcxproj -> C:\Users\brand\Desktop\GPanalysis\GPanalysis\Debug\GPanalysis.exe

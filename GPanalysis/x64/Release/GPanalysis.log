@@ -1,0 +1,9 @@
+﻿  logger.cpp
+  mill.cpp
+  product.cpp
+  region.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 690 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GPanalysis.vcxproj -> C:\Users\brand\Desktop\GPanalysis\GPanalysis\x64\Release\GPanalysis.exe
